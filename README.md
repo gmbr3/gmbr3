@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**gmbr3/gmbr3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Callum Farmer, a member and developer of the openSUSE project. Based in the United Kingdom and currently studying Computer Networks and Security at De Montfort University in Leicester.
 
-Here are some ideas to get you started:
+# Projects
+Mainly working on bug fixes for packages which exist in the base system of openSUSE Tumbleweed. Along with maintaining Chromium, Lua, the Budgie Desktop Environment, Steam and firewalld. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Links
+[Twitter](https://twitter.com/Callumgmbr3)
+
+[Open Build Service](https://build.opensuse.org/users/gmbr3)
+
+[Email](mailto:gmbr3@opensuse.org)
+
