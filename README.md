@@ -5,6 +5,9 @@ I'm Callum Farmer, a member and developer of the openSUSE project. Based in the 
 # Projects
 Mainly working on bug fixes for packages which exist in the base system of openSUSE Tumbleweed. Along with maintaining Chromium, Lua, the Budgie Desktop Environment, Steam and firewalld. 
 
+# Questions / Jobs / General
+just email 😀
+
 # Links
 [Twitter](https://twitter.com/Callumgmbr3)
 
