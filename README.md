@@ -17,5 +17,5 @@ just email 😀
 
 [Email](mailto:gmbr3@opensuse.org)
 
-[LinkedIn](www.linkedin.com/in/callum7978)
+[LinkedIn](https://www.linkedin.com/in/callum7978)
 
