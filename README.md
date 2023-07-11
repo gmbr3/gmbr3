@@ -9,13 +9,8 @@ Mainly working on bug fixes for packages which exist in the base system of openS
 just email 😀
 
 # Links
-[Twitter](https://twitter.com/Callumgmbr3)
 
 [Open Build Service](https://build.opensuse.org/users/gmbr3)
 
 [openSUSE Wiki](https://en.opensuse.org/User:Gmbr3)
-
-[Email](mailto:gmbr3@opensuse.org)
-
-[LinkedIn](https://www.linkedin.com/in/callum7978)
 
