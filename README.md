@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Callum Farmer, a member and developer of the openSUSE project. Based in the United Kingdom and currently a Third (Final) Year student of Computer Networks and Security BSc (Hons) at De Montfort University in Leicester.
+I'm Callum Farmer, a member and developer of the openSUSE project. Based in the United Kingdom and formerly a Third (Final) Year student of Computer Networks and Security BSc (Hons) at De Montfort University in Leicester.
 
 # Projects
 Mainly working on bug fixes for packages which exist in the base system of openSUSE Tumbleweed. Along with maintaining Chromium, Lua, the Budgie Desktop Environment, Steam and firewalld. 
